@@ -1,0 +1,22 @@
+{
+    "name": "Mianbao read newspaper",
+    "symbol": "",
+    "image": "2.png",
+    "description": "Fennie boy, have you read the newspaper!? Play makes it 2x more likely to reduce stress and increase doggo energy!",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "AmHkxpPG7Gws8qwdchYmgZwoBERQ1qjFoo9AoGa8T6Xw",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "dogecircle", "family": "dogecircle"}
+  }
+  

@@ -1,0 +1,22 @@
+{
+    "name": "Fenway likes play",
+    "symbol": "",
+    "image": "1.png",
+    "description": "Hey mian, come play! The weather is so nice out here! There are tons of sticks to chew!",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "AmHkxpPG7Gws8qwdchYmgZwoBERQ1qjFoo9AoGa8T6Xw",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "dogecircle", "family": "dogecircle"}
+  }
+  

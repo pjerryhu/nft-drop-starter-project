@@ -1,0 +1,23 @@
+{
+    "name": "Stanford Mianbao Study",
+    "symbol": "",
+    "description": "Do not disturb. I'm studying in my dream. This is how I got into Stanford.",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "AmHkxpPG7Gws8qwdchYmgZwoBERQ1qjFoo9AoGa8T6Xw",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {"name": "dogecircle", "family": "dogecircle"}
+
+  }
+  
