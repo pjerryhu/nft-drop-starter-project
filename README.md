@@ -1,5 +1,5 @@
-# buildspace Solana NFT Drop Project
+# Jerry's Solana NFT Drop Project
 
-### Result of this project:
+### Demo of this project:
 
-Go to https://solana-nft-project.vercel.app/ and mint a solana NFT for yourself!
+Please go to https://solana-nft-project.vercel.app/ and mint a solana NFT (my dog) for yourself!
